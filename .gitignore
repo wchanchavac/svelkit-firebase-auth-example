@@ -68,3 +68,7 @@ Temporary Items
 
 .svelte-kit/
 package
+
+### Vercel ###
+.vercel
+public
